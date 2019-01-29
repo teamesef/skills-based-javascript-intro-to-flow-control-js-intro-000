@@ -8,7 +8,7 @@ function teenager(age) {
   if (13-19) {
     //You are a teenager!()
   } else {
-    //You are not a teenager()
+    console.log("You are not a teenager")
   }
 }
 

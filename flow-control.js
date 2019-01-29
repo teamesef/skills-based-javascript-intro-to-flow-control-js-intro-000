@@ -5,10 +5,10 @@ function basicTeenager(age) {
 }
 
 function teenager(age) {
-  if (age) {
-    //You are a teenager! if `age` is truthy
+  if (13-19) {
+    //You are a teenager!() if `age` is truthy
   } else {
-    //"You are not a teenager" if `age` is falsy
+    //You are not a teenager() if `age` is falsey
   }
 }
 
